@@ -1,0 +1,15 @@
+html
+{
+	margin: 0 auto;
+	background-image: url('/images/body.png');
+}
+
+body
+{
+	color: #ccc;
+	font-style: italic;
+	font-family: Georgia;
+	margin: 0 auto;
+	background-image: url('/images/body_2.png');
+}
+
