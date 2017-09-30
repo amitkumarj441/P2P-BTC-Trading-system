@@ -1,0 +1,6 @@
+var User =	Model.define('User', {
+		name: String,
+		surname: String,
+		date_of_birth : Date,
+		age: {type: Number, default: 21}
+});
